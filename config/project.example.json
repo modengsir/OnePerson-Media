@@ -1,0 +1,9 @@
+{
+  "project_id": "demo-oneperson-001",
+  "topic": "普通人如何用AI数字人制作自媒体视频",
+  "provider": "manual",
+  "platform": "xiaohongshu",
+  "duration_seconds": 45,
+  "creator": {"display_name": "示例创作者", "audience": "想学AI的新手", "tone": "真实、口语化", "avatar_authorized": true, "voice_authorized": true},
+  "paid_tools": {"renoise_opt_in": false, "require_confirmation": true, "max_estimated_credits": 0}
+}

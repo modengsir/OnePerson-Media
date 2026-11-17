@@ -1,0 +1,9 @@
+{
+  "project_id": "ai-tutorial-45s",
+  "topic": "普通人怎么用AI数字人做知识口播",
+  "provider": "manual",
+  "platform": "xiaohongshu",
+  "duration_seconds": 45,
+  "creator": {"display_name": "Example Creator", "audience": "职场人和自媒体新手", "tone": "真实、简洁、不硬广", "avatar_authorized": true, "voice_authorized": true},
+  "paid_tools": {"renoise_opt_in": false, "require_confirmation": true, "max_estimated_credits": 0}
+}

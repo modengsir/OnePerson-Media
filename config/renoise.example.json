@@ -1,0 +1,9 @@
+{
+  "project_id": "example-renoise-001",
+  "topic": "用AI数字人讲清楚一个工具",
+  "provider": "renoise",
+  "platform": "douyin",
+  "duration_seconds": 45,
+  "creator": {"display_name": "示例创作者", "audience": "普通人", "tone": "轻松、真实", "avatar_authorized": true, "voice_authorized": true},
+  "paid_tools": {"renoise_opt_in": true, "require_confirmation": true, "max_estimated_credits": 300}
+}

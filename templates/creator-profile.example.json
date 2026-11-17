@@ -1,0 +1,13 @@
+{
+  "creator_id": "example-creator",
+  "display_name": "示例创作者",
+  "content_pillars": ["AI教程", "AI降本增效", "产品实测"],
+  "target_audience": ["职场人", "小企业老板"],
+  "writing_style": "第一人称、实测、少空话",
+  "avatar_asset_reference": "用户私有素材引用，切勿提交真实照片",
+  "voice_asset_reference": "用户私有素材引用，切勿提交真实录音",
+  "avatar_authorized": true,
+  "voice_authorized": true,
+  "preferred_platform": "xiaohongshu",
+  "preferred_ratio": "9:16"
+}
